@@ -333,7 +333,7 @@ section.container > form.flip > .front {
 #letter {
   background: #fafafa;
   width: 90%;
-  height: 95%;
+  height: 120%;
   position: absolute;
   left: 5%;
   top: 5%;
@@ -344,7 +344,7 @@ section.container > form.flip > .front {
   transition: 0s 0s; }
 
 #content:target #letter {
-  top: -40%;
+  top: -82%;
   -o-transition: .5s .5s;
   transition: .5s .5s; }
 

@@ -6,8 +6,8 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000Gửi cậu", 
-				"Gửi người tớ yêu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ sẽ dành cả phần đời còn lại để yêu cậu, để mang lại hạnh phúc cho cậu！<br><br><p style='float:right; display:block; width:80px;'>Yêu Cậu</p>"],
+			strings: ["^1000Gửi bạn Nhung", 
+				"Gửi Lời Xin Lỗi Chân Thành Tới Nhung <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mình viết những lời này để nói lời XIN LỖI tới bạn.Mình biết lời xin lỗi này nói ra đã muộn. <br> Nhưng dù sao nói ra vẫn hơn giữ trong lòng. Lời Xin Lỗi mà mình đã muốn nói từ lâu<br> Mình xin lỗi về tất cả.Mình XIN LỖI.Ngoài lời xin lỗi ra mình không biết phải nói gì :( bạn ạ <br> Mình mong bạn có thể tha lỗi cho mình. Và chúng ta vẫn sẽ làm bạn. Những kỉ niệm với Nhung được làm bạn với Nhung là những niềm vui với mình.<br> Cảm Ơn! Và XIN LỖI   <br><br><p style='float:right; display:block; width:80px;'> Gửi Bạn</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
