@@ -7,10 +7,14 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Gửi bạn Nhung", 
-				"Gửi Lời Xin Lỗi Chân Thành Tới Nhung <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mình viết những lời này để nói lời XIN LỖI tới bạn.Mình biết lời xin lỗi này nói ra đã muộn. <br> Nhưng dù sao nói ra vẫn hơn giữ trong lòng. Lời Xin Lỗi mà mình đã muốn nói từ lâu<br> Mình xin lỗi về tất cả.Mình XIN LỖI.Ngoài lời xin lỗi ra mình không biết phải nói gì :( bạn ạ <br> Mình mong bạn có thể tha lỗi cho mình. Và chúng ta vẫn sẽ làm bạn. Những kỉ niệm với Nhung được làm bạn với Nhung là những niềm vui với mình.<br> Cảm Ơn! Và XIN LỖI   <br><br><p style='float:right; display:block; width:80px;'> Gửi Bạn</p>"],
+				"Gửi Lời Xin Lỗi Chân Thành Tới Nhung <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mình viết những lời này để nói lời XIN LỖI tới bạn.Mình biết lời xin lỗi này nói ra đã muộn. <br> Nhưng dù sao nói ra vẫn hơn giữ trong lòng. Lời Xin Lỗi mà mình đã muốn nói từ lâu<br> Mình xin lỗi về tất cả.Mình XIN LỖI.Ngoài lời xin lỗi ra mình không biết phải nói gì :( bạn ạ <br> Mình mong bạn có thể tha lỗi cho mình. Và chúng ta vẫn sẽ làm bạn. Được làm bạn với Nhung là những niềm vui với mình.<br> Cảm Ơn! Và XIN LỖI   <br><br><p style='float:right; display:block; width:80px;'> Gửi Bạn</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
+
+		// strings: ["^1000Gửi bạn Nhung", 
+		// 		"Gửi Lời Xin Lỗi Chân Thành Tới Nhung <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mình viết những lời này để nói lời XIN LỖI tới bạn.Mình biết lời xin lỗi này nói ra đã muộn. <br> Nhưng dù sao nói ra vẫn hơn giữ trong lòng. Lời Xin Lỗi mà mình đã muốn nói từ lâu<br> Mình xin lỗi về tất cả.Mình XIN LỖI.Ngoài lời xin lỗi ra mình không biết phải nói gì :( bạn ạ <br> Mình mong bạn có thể tha lỗi cho mình. Và chúng ta vẫn sẽ làm bạn. Những kỉ niệm với Nhung được làm bạn với Nhung là những niềm vui với mình.<br> Cảm Ơn! Và XIN LỖI   <br><br><p style='float:right; display:block; width:80px;'> Gửi Bạn</p>"],
+		// 	typeSpeed: 100,
 		
 		$('#open').find("span").eq(0).css('background-position', "0 -150px");
 		
